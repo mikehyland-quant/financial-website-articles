@@ -9,8 +9,7 @@ The articles were originally published on TABB Forum and discuss portfolio compr
 ## 1. Exchanges Should Disrupt Swap Portfolio Compression Using Single-Sided Swap Futures  
 Published: May 2016  
 
-PDF:  
-→ [Download Article](.exchanges-should-disrupt-swap-portfolio-compression-using-single-sided-swap-futures.pdf)
+PDF: [Download Article](.exchanges-should-disrupt-swap-portfolio-compression-using-single-sided-swap-futures.pdf)
 
 This article explores how futures exchanges could meaningfully disrupt OTC swap portfolio compression by introducing more flexible swap futures products.
 
