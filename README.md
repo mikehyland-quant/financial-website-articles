@@ -29,8 +29,7 @@ Source: :contentReference[oaicite:0]{index=0}
 ## 2. Interest Rate Swap Futures à la Carte – Using Single-Sided Swap Futures  
 Published: July 2016  
 
-PDF:  
-→ [Download Article](./docs/interest-rate-swap-futures-a-la-carte-using-single-sided-swap-futures.pdf)
+PDF: [Download Article](./interest-rate-swap-futures-a-la-carte-using-single-sided-swap-futures.pdf)
 
 This article proposes a “deconstructed menu” approach to swap futures design.
 
@@ -50,8 +49,7 @@ Source: :contentReference[oaicite:1]{index=1}
 ---
 
 ## 3. [Compression / Single-Sided Swap Futures Product Overview]  
-PDF:  
-→ [Download Article](./docs/Compression_PDF.pdf)
+PDF: [Download Article](./Compression_PDF.pdf)
 
 This piece provides additional background and structural discussion on swap compression mechanics and futures innovation.
 
